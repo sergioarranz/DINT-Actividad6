@@ -1,4 +1,4 @@
-package com.utad.actividad6dintsergio.elements;
+package com.utad.actividad6dintsergio.game;
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
